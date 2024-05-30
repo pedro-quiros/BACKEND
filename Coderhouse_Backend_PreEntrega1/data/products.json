@@ -1,12 +1,22 @@
 [
 	{
 		"id": 1,
-		"title": "test product one",
-		"description": "test product one description",
-		"code": "001",
-		"price": 1000,
+		"title": "Product 1",
+		"description": "A simple product one",
+		"code": "A1",
+		"price": 100,
 		"status": true,
-		"stock": 10,
-		"category": "Electronic"
+		"stock": 1,
+		"category": "category Products"
+	},
+	{
+		"id": 2,
+		"title": "TEST",
+		"description": "Telefono de ultima generacion",
+		"code": "IPH12",
+		"price": 2000,
+		"status": true,
+		"stock": 5,
+		"category": "Smartphone"
 	}
 ]
